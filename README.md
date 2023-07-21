@@ -4,8 +4,8 @@
 #### The goal is to load all of Rockbuster's data into a relational database management system and then use SQL to analyze the data, derive insights, and answer business-oriented questions.
 ## Data
 #### This [link](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) includes the Rockbuster data set containing information about film inventory, customers, payments and more.
-#### This [link](https://docs.google.com/document/d/1Vjr_IJSc48Tvc9U6aVRjuCff4Zb4EpF8Uhi2GPkAOIE/edit?usp=sharing) includes the entity relational diagram & data dictionary.
+#### This [link](https://coach-courses-us.s3.amazonaws.com/exercises/1054/54058/8aa215d57efde2bf18d254edbcd5c469/Rockbuster-Stealth-Data-Dictionary---Ty-Rasmussen.pdf) includes the entity relational diagram & data dictionary.
 ## Tools
 ####
 ## Resources
-#### Here is Tableau Link for all visualizations created during this analysis.
+#### The following [link](https://coach-courses-us.s3.amazonaws.com/exercises/1054/54058/4c7efd4c458df9ee5c5a4f65884277ee/Rockbuster-Data---Ty-Rasmussen.pdf) will bring up the Rockbuster Stealth Data Summary with visualizations and a link to the Tableau files.
