@@ -9,3 +9,4 @@
 ####
 ## Resources
 #### The following [link](https://coach-courses-us.s3.amazonaws.com/exercises/1054/54058/4c7efd4c458df9ee5c5a4f65884277ee/Rockbuster-Data---Ty-Rasmussen.pdf) will bring up the Rockbuster Stealth Data Summary with visualizations and a link to the Tableau files.
+#### This Excel [link](https://coach-courses-us.s3.amazonaws.com/exercises/1054/54058/a2a166d599830cb5cada2dd29597e1d7/Rockbuster-Data---Ty-Rasmussen.xlsx) has results for the top business questions for the project along with the SQL queries that got these results.
